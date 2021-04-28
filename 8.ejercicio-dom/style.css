@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+}
+section p{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 2rem;
+}
+
+ul li {
+    text-decoration: none;
+    display: inline;
+    margin: 0.2rem;
+}
+ul li button{
+    font-size: 1rem;
+    font-weight: 800;
+    width: 5rem;
+    height: 3rem;
+}
+
